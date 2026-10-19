@@ -397,3 +397,6 @@ MIT © StellarKraal
 
 <!-- handsoff-issue-1363 -->
 - #1363: Build multi-step loan request wizard UI
+
+<!-- handsoff-issue-1364 -->
+- #1364: Implement prominent liquidation warning UI for at-risk loans
