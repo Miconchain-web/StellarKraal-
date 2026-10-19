@@ -392,3 +392,8 @@ website https://kraal-bloom-connect.lovable.app/
 
 MIT © StellarKraal
 .
+
+## Handsoff notes
+
+<!-- handsoff-issue-1363 -->
+- #1363: Build multi-step loan request wizard UI
