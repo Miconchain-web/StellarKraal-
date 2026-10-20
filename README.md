@@ -395,8 +395,5 @@ MIT © StellarKraal
 
 ## Handsoff notes
 
-<!-- handsoff-issue-1363 -->
-- #1363: Build multi-step loan request wizard UI
-
-<!-- handsoff-issue-1364 -->
-- #1364: Implement prominent liquidation warning UI for at-risk loans
+<!-- handsoff-issue-1372 -->
+- #1372: Publish OpenAPI spec to docs site and add Swagger UI
